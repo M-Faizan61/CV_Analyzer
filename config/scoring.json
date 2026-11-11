@@ -1,0 +1,7 @@
+{
+  "version": "2.0",
+  "mandatory_share": 0.7,
+  "preferred_share": 0.3,
+  "experience_cap_years": 15,
+  "note": "Match score is the documented coverage of the requirements, not a hiring probability. Shortlisted candidates rank by match score, then by relevant years (capped), and equal values stay tied."
+}

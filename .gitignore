@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Candidate data must never leave this computer
+data/cvs/*
+data/job_descriptions/*
+data/reports/*
+data/*.db
+data/*.db-*
+*.db
+!data/**/.gitkeep
